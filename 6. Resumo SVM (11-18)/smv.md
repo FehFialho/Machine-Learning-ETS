@@ -63,7 +63,7 @@ accuracy_score(y_test, prev)
 São os dois pontos mais próximos (Um de Cada Classe) do hiperplano.
 - Determinam a separação.
 - A linha só vai se mover se um deles for movido.
-![alt text](sv.png)
+![alt text](img/sv.png)
 ## Convex Hull
 Técnica que "estica um elástico" ao redor de cada grupo (Vira uma forma geométrica).
 ![alt text](img/convex-hull.png)
